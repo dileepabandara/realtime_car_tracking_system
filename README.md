@@ -1,0 +1,3 @@
+# Realtime Car Tracking System
+
+The Realtime car tracking system is an advanced system that tracks the location, speed, and other performance characteristics of race cars in real-time using GPS and sensor data. Data is gathered by the system from a variety of on-car sensors and is then saved in a Firestore database. Then, racing engineers utilize this data to make tactical choices during the race, and data analysts use it to learn more about the performance of the driver and the car. Additionally, the system can be used to set up notifications and alerts based on predetermined standards, enhancing the system's overall functionality and offering a smooth user experience.
